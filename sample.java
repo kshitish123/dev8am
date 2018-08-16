@@ -1,3 +1,12 @@
+void multiplication()
+{
+   C=A*B
+}
+void division
+{
+   C=A/B
+}
+
 void Addition()
 {
    C=A+B
