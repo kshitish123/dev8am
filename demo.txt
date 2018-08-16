@@ -1,3 +1,8 @@
+class devops
+{
+  s.o.p ("........")
+}
+
 class sample
 {
   s.o.p "HELLO"
