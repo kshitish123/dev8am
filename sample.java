@@ -1,3 +1,12 @@
+void Addition()
+{
+   C=A+B
+}
+void substraction()
+{
+   C=A-B
+}
+
 class sample
 {
   .........
